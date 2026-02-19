@@ -1,0 +1,48 @@
+{
+  "risk_rating": "medium",
+  "customer": {
+    "customer_id": "CUST-4421",
+    "name": "Rohan Mehta",
+    "account_number": "AC-22998123",
+    "email": "rohan@example.com",
+    "phone": "+44-7700-900111",
+    "address": "12 Market Street, London"
+  },
+  "transactions": [
+    {
+      "timestamp": "2026-03-03T08:10:00Z",
+      "amount": 95000,
+      "direction": "in",
+      "counterparty": "CP-1001",
+      "country": "IN"
+    },
+    {
+      "timestamp": "2026-03-03T10:22:00Z",
+      "amount": 98000,
+      "direction": "in",
+      "counterparty": "CP-1002",
+      "country": "IN"
+    },
+    {
+      "timestamp": "2026-03-04T09:12:00Z",
+      "amount": 92000,
+      "direction": "in",
+      "counterparty": "CP-1003",
+      "country": "IN"
+    },
+    {
+      "timestamp": "2026-03-04T12:40:00Z",
+      "amount": 99000,
+      "direction": "in",
+      "counterparty": "CP-1004",
+      "country": "IN"
+    },
+    {
+      "timestamp": "2026-03-04T13:15:00Z",
+      "amount": 490000,
+      "direction": "out",
+      "counterparty": "CP-9001",
+      "country": "RU"
+    }
+  ]
+}

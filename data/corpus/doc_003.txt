@@ -1,0 +1,1 @@
+SAR Reference 0122: Structuring patterns often include multiple sub-threshold deposits across a short window with no clear business purpose. Provide counts and periods explicitly.

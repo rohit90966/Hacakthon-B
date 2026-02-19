@@ -1,0 +1,27 @@
+{
+  "risk_rating": "high",
+  "customer": {
+    "customer_id": "CUST-8892",
+    "name": "Aisha Khan",
+    "account_number": "AC-99881100",
+    "email": "aisha@example.com",
+    "phone": "+44-7700-900222",
+    "address": "55 River Road, Manchester"
+  },
+  "transactions": [
+    {
+      "timestamp": "2026-02-20T08:30:00Z",
+      "amount": 120000,
+      "direction": "in",
+      "counterparty": "CP-2001",
+      "country": "GB"
+    },
+    {
+      "timestamp": "2026-02-20T11:45:00Z",
+      "amount": 125000,
+      "direction": "out",
+      "counterparty": "CP-9901",
+      "country": "SY"
+    }
+  ]
+}
